@@ -33,7 +33,7 @@ InceptMVP is a **Gold Partner of Bubble.io** and a **#1 FlutterFlow partner**, d
 - Set up CI/CD workflows with **GitHub Actions** and collaborated through **Git/GitHub**
 - Worked on MVP-focused projects in a fast-paced, client-facing environment
 
-> 💡 *Tip: add measurable results here, e.g. "Delivered 10+ apps" or "Reduced build time by 40%".*
+
 
 ---
 
